@@ -14,7 +14,7 @@
 
 ---
 
-### GitHub Stats & Snake Game 🐍
+### My GitHub Stats 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Erick9s&show_icons=true&title_color=ff0000&text_color=ffffff&icon_color=ff0000&bg_color=000000&border_color=ff0000"/>
