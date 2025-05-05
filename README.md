@@ -21,10 +21,6 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick9s&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=000000&border_color=ff0000"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erick9s/Erick9s/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ### Contato
