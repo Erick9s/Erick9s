@@ -25,14 +25,6 @@
 
 ---
 
-### 🧱 Minecraft Style Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Erick9s/Erick9s/output/github-contribution-grid-snake.svg" alt="Minecraft Repositories Animation" />
-</p>
-
----
-
 *Acesse meus repositórios e veja tudo que estou criando!*
 
 ---
